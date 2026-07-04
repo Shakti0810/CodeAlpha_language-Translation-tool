@@ -1,5 +1,5 @@
 
- Project Overview- 
+ Project Overview 
  
 The Language Translation Tool is a web application that allows users to translate text from one language to another. Users can enter text, choose the source and target languages, and receive the translated output using a translation API.
  Feature
